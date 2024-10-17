@@ -1,4 +1,5 @@
 ## Hi, I'm Kova 👋
+<img src="https://komarev.com/ghpvc/?username=kkoova&style=flat-square&color=blue" alt=""/>
 
 <!--
 **kkoova/kkoova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
