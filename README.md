@@ -24,6 +24,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
   </div>
 </div>
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkoova&theme=transparent&hide_border=true)](https://git.io/streak-stats)
