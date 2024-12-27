@@ -1,6 +1,5 @@
 ## Hi, I'm Kova 👋
 <img src="https://komarev.com/ghpvc/?username=kkoova&style=flat-square&color=blue" alt=""/>
-<img src="https://github.com/kkoova/kkoova/blob/b566054b8415ce74e7efa81254a69e8da34a3943/logosmal.png" width="100%" height="auto"/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
